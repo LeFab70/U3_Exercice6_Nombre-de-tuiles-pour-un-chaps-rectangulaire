@@ -1,0 +1,1 @@
+# U3_Exercice6_Nombre de tuiles pour un chaps rectangulaire
